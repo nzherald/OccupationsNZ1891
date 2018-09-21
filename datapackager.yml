@@ -1,0 +1,8 @@
+configuration:
+  files:
+    tidy_occupations.Rmd:
+      enabled: yes
+  objects:
+  - occupations
+  render_root:
+    tmp: '740412'

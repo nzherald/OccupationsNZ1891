@@ -1,0 +1,21 @@
+Package: OccupationsNZ1891
+Title: Occupation data from 1891 New Zealand Census
+Version: 1.0
+Authors@R: 
+    person(given = "Chris",
+           family = "Knox",
+           role = c("aut", "cre"),
+           email = "chris.knox@nzherald.co.nz")
+Description: Data package for occupation data from the 1891 New Zealand Census.
+    Broken down by age and gender
+License: CC BY 4
+Encoding: UTF-8
+LazyData: true
+DataVersion: 0.1.0
+Roxygen: list(markdown = TRUE)
+Date: 2018-09-21
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.0

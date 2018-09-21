@@ -1,0 +1,15 @@
+TRACE [2018-09-21 16:04:06] Logging to /Users/chris.knox/nzme/OccupationsNZ1891/inst/extdata/Logfiles/processing.log
+TRACE [2018-09-21 16:04:06] Processing data
+TRACE [2018-09-21 16:04:06] Reading yaml configuration
+TRACE [2018-09-21 16:04:06] Found /Users/chris.knox/nzme/OccupationsNZ1891/data-raw/tidy_occupations.Rmd
+TRACE [2018-09-21 16:04:06] Processing 1 of 1: /Users/chris.knox/nzme/OccupationsNZ1891/data-raw/tidy_occupations.Rmd
+
+TRACE [2018-09-21 16:04:07] 1 data set(s) created by tidy_occupations.Rmd
+TRACE [2018-09-21 16:04:07] NEWS.md file not found, creating!
+TRACE [2018-09-21 16:04:07] Saving to data
+TRACE [2018-09-21 16:04:07] Copied documentation to /Users/chris.knox/nzme/OccupationsNZ1891/R/OccupationsNZ1891.R
+TRACE [2018-09-21 16:04:07] Done
+TRACE [2018-09-21 16:04:07] DataPackageR succeeded
+TRACE [2018-09-21 16:04:07] Building documentation
+TRACE [2018-09-21 16:04:08] Building package
+TRACE [2018-09-21 16:07:35] Rebuilding data package documentation.
