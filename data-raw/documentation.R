@@ -29,7 +29,7 @@ NULL
 #' \item{Age Group}{}
 #' \item{Count}{}
 #' }
-#' @source The data comes from https://www3.stats.govt.nz/historic_publications//1891-census/1891-results-census/1891-results-census.html?_ga=2.3235056.1979237612.1536527586-1395609890.1499578343
+#' @source The data comes from https://www3.stats.govt.nz/historic_publications/1891-census/1891-results-census/1891-results-census.html
 #' @seealso
 #' \link{OccupationsNZ1891}
 NULL

@@ -20,3 +20,8 @@ library(OccupationsNZ1891)
 ## Use from anywhere
 
 There is a csv file `data-raw/occupations.csv`
+
+
+## Source
+
+The data was extracted from Chapter 73 of the [1891 Census](https://www3.stats.govt.nz/historic_publications/1891-census/1891-results-census/1891-results-census.html)
